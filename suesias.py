@@ -4,7 +4,7 @@ import random
 app = Flask(__name__)
 app.secret_key = "hemlig_nyckel"  # Krävs för sessionshantering
 
-words = ["äpple", "banan", "druva", "bil", "skumtomte"]
+words = ["äpple", "banan", "druva", "bil", "skumtomte", "bamse", "skola"]
 
 @app.route("/", methods=["GET", "POST"])
 def game():
