@@ -15,6 +15,10 @@ Du gissar bokstäver tills du antingen hittar det hemliga ordet eller förlorar 
 - **Vinst- och förlustsidor** när spelet är slut.
 - **Enkel webbaserad layout** där du kan gissa bokstäver via ett formulär.
 
+## Public test
+Applicationen finns att testa på
+https://vexo.se/suesias/
+
 ## Teknisk översikt
 
 - Bygger på **Python** och **Flask**.
