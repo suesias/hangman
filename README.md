@@ -30,12 +30,12 @@ https://vexo.se/suesias/
 ```
 projektmapp/
 │
-├─ app.py               # Flask-applikationen
-├─ templates/
-│   ├─ index.html       # Huvudsida med spelet (gissningar)
-│   ├─ win.html         # Sidan som visas vid vinst
-│   └─ lose.html        # Sidan som visas vid förlust
-└─ requirements.txt     # (Valfritt) lista på beroenden
+├─ syesias.py               # Flask-applikationen
+└─ templates/
+    ├─ index.html       # Huvudsida med spelet (gissningar)
+    ├─ win.html         # Sidan som visas vid vinst
+    └─ lose.html        # Sidan som visas vid förlust
+
 ```
 
 ## Användning
